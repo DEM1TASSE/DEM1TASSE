@@ -38,7 +38,7 @@
   
 ### 💬 &nbsp;Connect with Me
 <p>Feel free to ask me anything!</p>
-<p align="center">
+<p>
   <a href="https://instagram.com/demiwannasleep"><img src="https://img.shields.io/badge/-@demiwannasleep_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/demi-ruohanwang"><img src="https://img.shields.io/badge/-@Demi Wang-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="demi.wang@berkeley.edu"><img src="https://img.shields.io/badge/-demi.wang@berkeley.edu-003262?style=flat&logo=Gmail&logoColor=white"/></a>

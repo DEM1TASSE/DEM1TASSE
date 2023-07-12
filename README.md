@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp; About Me
 
 - 🎓 &nbsp; I'm studying Software Engineering at Tongji University. Currently, I'm a visiting student at UC Berkeley.
-- 🌱 &nbsp; I'm a novice researcher in the fields of NLP and HCI. My research interests revolve around Human-Centered AI and LLM.
+- 🌱 &nbsp; I'm a novice researcher in the fields of NLP and HCI. My research interests revolve around Human-Centered AI and LLM Agents.
 - 👀 &nbsp; I'm looking for research internship opportunities for Summer 2023.
 - 🎵 &nbsp; I'm an original Hip-Hop musician. Listen to my music <a href="https://music.163.com/#/artist?id=50221641">here<a>.
 - 💫 &nbsp; Freedom is the oxygen of the soul.

@@ -31,9 +31,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-43853d?style=flat&logo=intellij-idea&logoColor=white)
 
 ### ♾ &nbsp;GitHub Analytics
-<a href="https://github.com/DEM1TASSE">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DEM1TASSE&show_icons=true" />
-</a>
+![Demi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEM1TASSE&hide=stars)
   
 ### 💬 &nbsp;Connect with Me
 <p>Feel free to ask me anything!</p>

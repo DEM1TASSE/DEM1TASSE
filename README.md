@@ -30,9 +30,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-EAB300?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-13aa52?style=flat&logo=pycharm&logoColor=white)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-43853d?style=flat&logo=intellij-idea&logoColor=white)
-
-### ♾ &nbsp;GitHub Analytics
-![Demi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEM1TASSE&hide=stars)
   
 ### 💬 &nbsp;Connect with Me
 <p>Feel free to ask me anything!</p>

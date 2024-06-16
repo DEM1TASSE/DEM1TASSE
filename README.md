@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-- 🎓 &nbsp; I'm studying Software Engineering at Tongji University. Currently, I'm a visiting student at UC Berkeley.
+- 🎓 &nbsp; I'm studying Software Engineering at Tongji University. Previously, I was a visiting student at UC Berkeley.
 - 👨‍💻 &nbsp; In a short term, I'm learning to be a **full-stack independent developer**; in the long run, I hope to contribute to the development of **AGI**.
-- 🌱 &nbsp; I'm a novice researcher in NLP. I'm interested in **LLM Agents** and **Multimodal ML**.
+- 🌱 &nbsp; I'm a novice researcher in NLP. I'm interested in **LLM Agents** and **Multimodal ML**. I also like to participate in AI-related hackathons.
 - 🎵 &nbsp; I'm a **Hip-Hop songwriter**. Listen to my music <a href="https://music.163.com/#/artist?id=50221641">here<a>.
 - 💫 &nbsp; Freedom is the oxygen of the soul.
 

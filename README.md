@@ -2,10 +2,10 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-- 🎓 &nbsp; I'm studying Software Engineering at Tongji University. Previously, I was a visiting student at UC Berkeley.
+- 🎓 &nbsp; I'm a Master's student at Carnegie Mellon University, Language Technologies Institute.
 - 👨‍💻 &nbsp; In a short term, I'm learning to be a **full-stack independent developer**; in the long run, I hope to contribute to the development of **AGI**.
-- 🌱 &nbsp; I'm a novice researcher in NLP. I'm interested in **LLM Agents** and **Multimodal ML**. I also like to participate in AI-related hackathons.
-- 🎵 &nbsp; I'm a **Hip-Hop songwriter**. Listen to my music <a href="https://music.163.com/#/artist?id=50221641">here<a>.
+- 🌱 &nbsp; I'm exploring research in **LLMs**, **Agents**, and **Reasoning**, and I enjoy participating in **AI-related hackathons**.
+- 🎵 &nbsp; I played piano for 10 years, and now I'm trying to make some hip-hop music.
 - 💫 &nbsp; Freedom is the oxygen of the soul.
 
 ### 🛠 &nbsp;Things I Code with
@@ -36,6 +36,7 @@
 <p>
   <a href="https://instagram.com/demiwannasleep"><img src="https://img.shields.io/badge/-@demiwannasleep_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/demi-ruohanwang"><img src="https://img.shields.io/badge/-@Demi Wang-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.xiaohongshu.com/user/profile/5bf92dd76f880b00017e778e"><img src="https://img.shields.io/badge/-@Demitasse---EF2E31?style=flat&logo=xiaohongshu&logoColor=white"/></a>
   <a href="https://mail.google.com/mail/?view=cm&to=demi.ruohanwang@gmail.com"><img src="https://img.shields.io/badge/-demi.ruohanwang@gmail.com-003262?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 

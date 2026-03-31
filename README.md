@@ -37,7 +37,7 @@
   <a href="https://instagram.com/demiwannasleep"><img src="https://img.shields.io/badge/-@demiwannasleep_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/demi-ruohanwang"><img src="https://img.shields.io/badge/-@Demi Wang-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://www.xiaohongshu.com/user/profile/5bf92dd76f880b00017e778e"><img src="https://img.shields.io/badge/-@Demitasse---EF2E31?style=flat&logo=xiaohongshu&logoColor=white"/></a>
-  <a href="https://mail.google.com/mail/?view=cm&to=demi.ruohanwang@gmail.com"><img src="https://img.shields.io/badge/-demi.ruohanwang@gmail.com-003262?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=demiw@andrew.cmu.edu"><img src="https://img.shields.io/badge/-demiw@andrew.cmu.edu-003262?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <!--

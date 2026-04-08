@@ -3,8 +3,8 @@
 ### 👨🏻‍💻 &nbsp; About Me
 
 - 🎓 &nbsp; I'm a Master's student at Carnegie Mellon University, Language Technologies Institute.
-- 👨‍💻 &nbsp; I explore as much as I can to find my path. So far, I believe building is the throughline of my life.
-- 🌱 &nbsp; I'm exploring research in **LLMs**, **Agents**, and **Reasoning**, and I enjoy participating in **AI-related hackathons**.
+- 👨‍💻 &nbsp; I explore as much as I can to find my path. So far, I believe **building** is the throughline of my life.
+- 🌱 &nbsp; I'm trying to do research in **LLMs**, **Agents**, and **Reasoning** to create real-world impact, and I enjoy participating in **AI-related hackathons**.
 - 🎵 &nbsp; I played piano for 10 years, and now I'm trying to make some hip-hop music.
 - 💫 &nbsp; Freedom is the oxygen of the soul.
 
